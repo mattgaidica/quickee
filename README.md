@@ -3,4 +3,5 @@
 Some of the permissions will need to be modifed:
 
 *chown -R ssh_user:www repository/*
+
 *chmod -R g+s repository/*
